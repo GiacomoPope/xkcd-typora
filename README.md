@@ -4,7 +4,7 @@ Ever read [xkcd](https://xkcd.com) and wished your notes could look like that?
 
 Me too!
 
-![Theme Screenshot]()
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot.png)
 
 ## What is this?
 
@@ -27,9 +27,9 @@ This was developed on a mac, and I haven't installed it elsewhere to check it, s
 
 ## Screenshots
 
-![Theme Screenshot]()
-![Theme Screenshot]()
-![Theme Screenshot]()
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot2.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot3.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot1.png)
 
 ## Typography
 
