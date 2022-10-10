@@ -16,7 +16,7 @@ Typora is a minimal, free markdown editor which additionally supports Latex usin
 
 ## Installation 
 
-- Download the [xkcd-theme]() zip
+- Download the [xkcd-theme](https://github.com/jack4818/xkcd-typora/blob/019d13a24247d6db5f8748bb0071868d7dfabaae/xkcd-theme.zip) zip
 - In Typora, open Theme Folder from Preference Panel → Appearance section.
 - Copy `xkcd.css` and the `xkcd` directory, into the newly opened folder.
 - Restart typora, then select `xkcd` from Themes menu.
