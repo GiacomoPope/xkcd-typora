@@ -1,4 +1,4 @@
-# XKCD Typora Theme
+# xkcd Typora Theme
 
 Ever read [xkcd](https://xkcd.com) and wished your notes could look like that?
 
@@ -8,7 +8,7 @@ Me too!
 
 ## What is this?
 
-A light theme for [Typora](https://typora.io) built around the XKCD font.
+A light theme for [Typora](https://typora.io) built around the [xkcd font](https://github.com/ipython/xkcd-font).
 
 ## What is Typora?
 
