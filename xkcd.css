@@ -8,7 +8,14 @@
     font-style: normal;
     font-weight: normal;
     src: local('XKCD Script'), local('XKCD Script'), url('./xkcd/xkcd-script.woff') format('woff');
-  }
+}
+
+@font-face {
+    font-family: 'XKCD-Mono';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./xkcd/xkcd-script-mono.woff') format('woff');
+}
 
 html {
     font-size: 21px;
@@ -22,7 +29,7 @@ body {
 }
 
 code, pre{
-	font-family: "XKCD";
+	font-family: "XKCD-Mono", monospace;
 }
 
 #write {
@@ -243,7 +250,7 @@ code {
     /*background-color: rgba(175, 184, 203, 0.2);*/
     background-color: white;
     border: 1px solid black!important;
-    padding: .1em .3em;
+    padding: 0 0.3em;
     border:  none;
     border-radius: 6px;
 }

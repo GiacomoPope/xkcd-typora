@@ -33,4 +33,5 @@ This was developed on a mac, and I haven't installed it elsewhere to check it, s
 
 ## Typography
 
-The font is called `xkcd-script` and has been downloaded from [xkcd-font](https://github.com/ipython/xkcd-font).
+The font is called `xkcd-script` and has been downloaded from [xkcd-font](https://github.com/ipython/xkcd-font). 
+A monospaced version of the font called `xkcd-script-mono` was generated using [monospacifier](https://github.com/cpitclaudel/monospacifier).
