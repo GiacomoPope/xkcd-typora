@@ -30,6 +30,7 @@ body {
 
 code, pre{
 	font-family: "XKCD-Mono", monospace;
+    letter-spacing: -1.5px;
 }
 
 #write {
@@ -265,6 +266,7 @@ pre{
     padding-top: 8px;
     padding-bottom: 6px;
     border: 1px solid black!important;
+    border-radius: 6px;
 }
 
 
