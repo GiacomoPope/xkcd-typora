@@ -4,7 +4,7 @@ Ever read [xkcd](https://xkcd.com) and wished your notes could look like that?
 
 Me too!
 
-![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/ede7bdb0f308d16af361ea352be28d82afae541c/screenshot.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/98b357bf5083a8cf2f941823541986b6f917a0de/screenshot.png)
 
 ## What is this?
 
@@ -16,7 +16,7 @@ Typora is a minimal, free markdown editor which additionally supports Latex usin
 
 ## Installation 
 
-- Download the [xkcd-theme](https://github.com/jack4818/xkcd-typora/blob/019d13a24247d6db5f8748bb0071868d7dfabaae/xkcd-theme.zip) zip
+- Download the [xkcd-theme](https://github.com/jack4818/xkcd-typora/blob/98b357bf5083a8cf2f941823541986b6f917a0de/xkcd-theme.zip) zip
 - In Typora, open Theme Folder from Preference Panel → Appearance section.
 - Copy `xkcd.css` and the `xkcd` directory, into the newly opened folder.
 - Restart typora, then select `xkcd` from Themes menu.
@@ -27,9 +27,10 @@ This was developed on a mac, and I haven't installed it elsewhere to check it, s
 
 ## Screenshots
 
-![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot2.png)
-![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot3.png)
-![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/b7637f20508fbb7988601a935885a856a025f486/screenshot1.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/98b357bf5083a8cf2f941823541986b6f917a0de/screenshot2.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/98b357bf5083a8cf2f941823541986b6f917a0de/screenshot3.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/98b357bf5083a8cf2f941823541986b6f917a0de/screenshot1.png)
+![Theme Screenshot](https://github.com/jack4818/xkcd-typora/blob/98b357bf5083a8cf2f941823541986b6f917a0de/screenshot4.png)
 
 ## Typography
 
